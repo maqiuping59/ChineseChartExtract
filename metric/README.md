@@ -85,7 +85,7 @@ Example  - Complex table comparison:
 
 ## Citation(s)
 ```bibtex
-@article{scikit-learn,
+@article{chinesechartextractor,
   title={Research on Chinese Chart Data Extraction Methods},
   author={Qiuping Ma,Hangshuo Bi,Qi Zhang,Xiaofan Zhao},
   journal={None},
