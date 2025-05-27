@@ -1,0 +1,4 @@
+evaluate>=0.4.0
+datasets>=2.12.0
+numpy>=1.24.0
+gradio>=4.0.0
